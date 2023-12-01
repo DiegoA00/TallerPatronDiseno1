@@ -1,0 +1,3 @@
+[submodule "NotifierWrapper"]
+	path = NotifierWrapper
+	url = https://github.com/vicbguti-espol/NotifierWrapper
